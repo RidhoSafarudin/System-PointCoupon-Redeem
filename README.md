@@ -14,10 +14,10 @@ Cara Install jika belum
 
 ```sh
 # Step 1: Clone repository menggunakan URL Git project.
-git clone https://github.com/RidhoSafarudin/Spinner-wheel-prize-selector
+git clone https://github.com/RidhoSafarudin/System-PointCoupon-Redeem.git
 
 # Step 2: Masuk ke direktori project.
-cd Spinner-wheel-prize-selector
+cd System-PointCoupon-Redeem
 
 # Step 3: Install dependency yang diperlukan.
 npm i
